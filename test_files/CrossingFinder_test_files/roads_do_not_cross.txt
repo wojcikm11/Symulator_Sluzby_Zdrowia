@@ -1,0 +1,11 @@
+# Szpitale (id | nazwa | wsp. x | wsp. y | Liczba łóżek | Liczba wolnych łóżek)
+0 | Szpital lewy1 | 0 | 0 | 99 | 0
+1 | Szpital prawy1 | 20 | 10 | 70 | 1
+2 | Szpital lewy2 | 0 | -1 | 99 | 0
+3 | Szpital prawy2 | 19 | 9 | 70 | 1
+
+# Obiekty (id | nazwa | wsp. x | wsp. y)
+
+# Drogi (id | id_szpitala | id_szpitala | odległość)
+0 | 0 | 1 | 1000
+1 | 2 | 3 | 1000

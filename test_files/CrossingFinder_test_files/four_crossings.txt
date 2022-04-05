@@ -1,0 +1,17 @@
+# Szpitale (id | nazwa | wsp. x | wsp. y | Liczba łóżek | Liczba wolnych łóżek)
+0 | Szpital lewy-górny | -25 | 25 | 99 | 0
+1 | Szpital prawy-górny | 50 | 25 | 70 | 1
+2 | Szpital lewy-dolny | -25 | -25 | 99 | 0
+3 | Szpital prawy-dolny | 50 | -25 | 70 | 1
+4 | Szpital góra | 0 | 50 | 1000 | 100
+5 | Szpital dół | 0 | -50 | 999 | 99
+6 | Szpital góra | 25 | 50 | 70 | 1
+7 | Szpital dół | 25 | -50 | 1000 | 100
+
+# Obiekty (id | nazwa | wsp. x | wsp. y)
+
+# Drogi (id | id_szpitala | id_szpitala | odległość)
+0 | 0 | 1 | 1000
+1 | 2 | 3 | 1000
+2 | 4 | 5 | 2400
+3 | 7 | 6 | 2400

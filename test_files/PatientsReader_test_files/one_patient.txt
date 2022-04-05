@@ -1,0 +1,2 @@
+# Pacjenci (id | wsp. x | wsp.y)
+1 | 22 | 20

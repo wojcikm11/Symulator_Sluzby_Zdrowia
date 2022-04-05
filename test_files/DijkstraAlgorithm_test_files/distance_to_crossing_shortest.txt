@@ -1,0 +1,12 @@
+# Szpitale (id | nazwa | wsp. x | wsp. y | Liczba łóżek | Liczba wolnych łóżek)
+1 | Szpital lewy-dolny | 0 | 0 | 1000 | 100
+2 | Szpital prawy-górny | 10 | 20 | 999 | 99
+3 | Szpital lewy-górny | 0 | 30 | 99 | 0
+4 | Szpital prawy-dolny | 10 | 0 | 70 | 1
+
+# Obiekty (id | nazwa | wsp. x | wsp. y)
+1 | Pomnik Wikipedii | -1 | 50
+
+# Drogi (id | id_szpitala | id_szpitala | odległość)
+1 | 1 | 2 | 700
+2 | 4 | 3 | 550
